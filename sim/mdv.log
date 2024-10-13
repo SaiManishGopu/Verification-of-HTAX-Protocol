@@ -1,0 +1,20 @@
+[ERROR] 2023-12-04 08:31:56 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-12-04 08:32:02 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 32898
+[ERROR] 2023-12-04 20:23:33 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-12-04 20:23:38 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 35849
+[ERROR] 2023-12-05 23:06:58 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-12-05 23:07:03 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 32963
+[ERROR] 2023-12-05 23:27:18 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-12-05 23:27:23 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 41291
+[ERROR] 2023-12-06 00:21:16 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-12-06 00:21:22 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 41825
+[ERROR] 2023-12-06 01:52:22 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-12-06 01:52:27 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 34310
+[ERROR] 2023-12-06 01:52:57 [com.cadence.mdv.services.ClientLinkToServerImpl] [main] - No XLM Home defined in the server project
+[INFO ] 2023-12-06 01:53:02 [com.cadence.mdv.imc.Main] [main] - Binding debug tools http on port: 42441
+[ERROR] 2023-12-06 02:18:20 [com.cadence.mdv.bl.impl.core.blNative.MDVEntitySimpleFallbackHandler] [AWT-EventQueue-0] - Slim entity had to fallback because someone asked about REQUIRED_PROOF_BOUND
+[ERROR] 2023-12-06 02:18:41 [com.cadence.mdv.bl.impl.core.blNative.MDVEntitySimpleFallbackHandler] [AWT-EventQueue-0] - Slim entity had to fallback because someone asked about REQUIRED_PROOF_BOUND
+[ERROR] 2023-12-06 02:18:51 [com.cadence.mdv.bl.impl.core.blNative.MDVEntitySimpleFallbackHandler] [AWT-EventQueue-0] - Slim entity had to fallback because someone asked about REQUIRED_PROOF_BOUND
+[ERROR] 2023-12-06 02:26:37 [com.cadence.mdv.bl.impl.core.blNative.MDVEntitySimpleFallbackHandler] [AWT-EventQueue-0] - Slim entity had to fallback because someone asked about REQUIRED_PROOF_BOUND
+[ERROR] 2023-12-06 02:26:41 [com.cadence.mdv.bl.impl.core.blNative.MDVEntitySimpleFallbackHandler] [AWT-EventQueue-0] - Slim entity had to fallback because someone asked about REQUIRED_PROOF_BOUND
+[ERROR] 2023-12-06 02:29:03 [com.cadence.mdv.bl.impl.core.blNative.MDVEntitySimpleFallbackHandler] [AWT-EventQueue-0] - Slim entity had to fallback because someone asked about REQUIRED_PROOF_BOUND

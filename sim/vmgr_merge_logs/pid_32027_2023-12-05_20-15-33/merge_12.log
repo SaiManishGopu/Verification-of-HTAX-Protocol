@@ -1,0 +1,19 @@
+vmanager: *I,MERGL1: Preparing icc target model ...
+vmanager: *I,MERGL1: Doing model union ...
+vmanager: *I,MERGL2:   With primary run (/home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/merged_ucds/default/1701839575332): /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/merged_ucds/default/1701839575332/icc_4e8e3c4e_0a9c82fa.ucm(merged)
+vmanager: *I,MERGL1: Target model generated successfully.
+vmanager: *I,MERGL1: Projecting data into the target model ...
+vmanager: *I,MERGL2:   /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/chain_0/all_test/run_428/cov_work/scope/test_sv1799372532:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/chain_0/all_test/run_429/cov_work/scope/test_sv-952093966:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/chain_0/all_test/run_430/cov_work/scope/test_sv792742767:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/chain_0/all_test/run_431/cov_work/scope/test_sv1623220209:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/chain_0/all_test/run_432/cov_work/scope/test_sv683692946:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL2:   /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/chain_0/all_test/run_433/cov_work/scope/test_sv1690330302:
+vmanager: *I,MERGL3:       Data is projected in to the target model.
+vmanager: *I,MERGL1: Writing icc data to /home/grads/s/saimanish.gopu/csce_616/lab-10-SaiManishGopu/lab10/sim/regression/htax_regress.saimanish.gopu.23_12_05_21_25_55_6685/merged_ucds/default/1701839667896/merged_tests/icc_4e8e3c4e_0a9c82fa.ucd(merged)
+vmanager: *I,coverage.merge_op_done_no_warns: Merge operation (session runs merge) is done without any conflicts.
