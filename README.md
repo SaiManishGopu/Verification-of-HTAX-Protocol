@@ -18,4 +18,4 @@ The High Throughput Advanced X-Bar (**HTAX**) is a protocol agnostic, high throu
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/d6cf4acc-9342-4717-971b-fc38d27051b0">
 
 
-_Note_: The design contains a bug. More details of the bug can be found in the file lab_report present in sim directory.
+_Note_: The design contains a bug. More details can be found in the lab_report in the sim directory.
